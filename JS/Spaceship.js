@@ -1,7 +1,4 @@
  import { Missile } from "./Missile.js";
- 
- 
- 
  export class Spaceship {
      missiles = [];
      #modifier = 10;
